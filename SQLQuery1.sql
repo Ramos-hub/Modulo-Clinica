@@ -61,7 +61,7 @@ email varchar (100),
 foreign key (idRol) references Rol (idRol)
 );
 go
-INSERT INTO Usuarios (idRol, nombreUsuario, contraseña, email) VALUES
+INSERT INTO Usuarios (idRol, nombreUsuario, clave, email) VALUES
 (1, 'admin1', 'admin123', 'admin1@clinica.com'),
 (1, 'admin2', 'admin456', 'admin2@clinica.com'),
 (2, 'medico1', 'medico123', 'medico1@clinica.com'),

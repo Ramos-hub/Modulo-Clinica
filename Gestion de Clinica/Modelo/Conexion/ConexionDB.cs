@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Modelo.Conexion
 {
-    internal class ConexionDB
+    public class ConexionDB
     {
         private static string servidor = "(localdb)\\MSSQLLocalDB";
         private static string basededatos = "Medicos";

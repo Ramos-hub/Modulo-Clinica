@@ -1,0 +1,17 @@
+C:\Users\LENOVO\Desktop\Modulo-Clinica\Gestion de Clinica\Modelo\bin\Debug\Modelo.dll
+C:\Users\LENOVO\Desktop\Modulo-Clinica\Gestion de Clinica\Modelo\bin\Debug\Modelo.pdb
+C:\Users\LENOVO\Desktop\Modulo-Clinica\Gestion de Clinica\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Modulo-Clinica\Gestion de Clinica\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Modulo-Clinica\Gestion de Clinica\Modelo\obj\Debug\Modelo.dll
+C:\Users\LENOVO\Desktop\Modulo-Clinica\Gestion de Clinica\Modelo\obj\Debug\Modelo.pdb
+C:\Users\LENOVO\Desktop\Modulo-Clinica\Gestion de Clinica\Modelo\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\LENOVO\Desktop\Modulo-Clinica\Gestion de Clinica\Modelo\bin\Debug\System.Buffers.dll
+C:\Users\LENOVO\Desktop\Modulo-Clinica\Gestion de Clinica\Modelo\bin\Debug\System.Memory.dll
+C:\Users\LENOVO\Desktop\Modulo-Clinica\Gestion de Clinica\Modelo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LENOVO\Desktop\Modulo-Clinica\Gestion de Clinica\Modelo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LENOVO\Desktop\Modulo-Clinica\Gestion de Clinica\Modelo\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\LENOVO\Desktop\Modulo-Clinica\Gestion de Clinica\Modelo\bin\Debug\System.Buffers.xml
+C:\Users\LENOVO\Desktop\Modulo-Clinica\Gestion de Clinica\Modelo\bin\Debug\System.Memory.xml
+C:\Users\LENOVO\Desktop\Modulo-Clinica\Gestion de Clinica\Modelo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LENOVO\Desktop\Modulo-Clinica\Gestion de Clinica\Modelo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LENOVO\Desktop\Modulo-Clinica\Gestion de Clinica\Modelo\obj\Debug\Modelo.csproj.Up2Date
