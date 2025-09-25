@@ -27,9 +27,9 @@ namespace Vista.Formularios
             string clave = txtClave.Text;
 
             string sql = @"SELECT u.clave, r.nombreRol
-                            FROM Usuarios u
-                            INNER JOIN Rol r ON u.idRol = r.idRol
-                            WHERE u.nombreUsuario = @usuario;";
+                   FROM Usuarios u
+                   INNER JOIN Rol r ON u.idRol = r.idRol
+                   WHERE u.nombreUsuario = @usuario;";
 
             try
             {
@@ -63,7 +63,7 @@ namespace Vista.Formularios
                                 rd.Close();
                                 string nuevoHash = Seguridad.CrearHash(clave);
                                 using (var upd = new SqlCommand(
-                                    "UPDATE Usuario SET clave=@c WHERE nombre=@u", cn))
+                                    "UPDATE Usuarios SET clave=@c WHERE nombreUsuario=@u", cn))
                                 {
                                     upd.Parameters.AddWithValue("@c", nuevoHash);
                                     upd.Parameters.AddWithValue("@u", usuario);

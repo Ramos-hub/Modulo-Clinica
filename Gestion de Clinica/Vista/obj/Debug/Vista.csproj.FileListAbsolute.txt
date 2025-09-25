@@ -20,3 +20,5 @@ C:\Users\LENOVO\Desktop\Modulo-Clinica\Gestion de Clinica\Vista\obj\Debug\Vista.
 C:\Users\LENOVO\Desktop\Modulo-Clinica\Gestion de Clinica\Vista\obj\Debug\Vista.Formularios.frmInicioSesion.resources
 C:\Users\LENOVO\Desktop\Modulo-Clinica\Gestion de Clinica\Vista\bin\Debug\Modelo.dll
 C:\Users\LENOVO\Desktop\Modulo-Clinica\Gestion de Clinica\Vista\bin\Debug\Modelo.pdb
+C:\Users\LENOVO\Desktop\Modulo-Clinica\Gestion de Clinica\Vista\obj\Debug\Vista.Formularios.frmDashboard.resources
+C:\Users\LENOVO\Desktop\Modulo-Clinica\Gestion de Clinica\Vista\obj\Debug\Vista.Formularios.frmInicio.resources

@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ABB72B7E-BECE-4329-941C-E59FECFDE600}|Vista\\Vista.csproj|C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\vista\\formularios\\frminiciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABB72B7E-BECE-4329-941C-E59FECFDE600}|Vista\\Vista.csproj|solutionrelative:vista\\formularios\\frminiciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ABB72B7E-BECE-4329-941C-E59FECFDE600}|Vista\\Vista.csproj|c:\\users\\lenovo\\desktop\\modulo-clinica\\gestion de clinica\\vista\\formularios\\frmpacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ABB72B7E-BECE-4329-941C-E59FECFDE600}|Vista\\Vista.csproj|solutionrelative:vista\\formularios\\frmpacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABB72B7E-BECE-4329-941C-E59FECFDE600}|Vista\\Vista.csproj|C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\vista\\formularios\\frminiciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{ABB72B7E-BECE-4329-941C-E59FECFDE600}|Vista\\Vista.csproj|solutionrelative:vista\\formularios\\frminiciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{ABB72B7E-BECE-4329-941C-E59FECFDE600}|Vista\\Vista.csproj|C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\vista\\formularios\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ABB72B7E-BECE-4329-941C-E59FECFDE600}|Vista\\Vista.csproj|solutionrelative:vista\\formularios\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3111B0AD-23DC-42E5-BA95-E7DAAD3F4C93}|Modelo\\Modelo.csproj|C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\modelo\\entidades\\seguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3111B0AD-23DC-42E5-BA95-E7DAAD3F4C93}|Modelo\\Modelo.csproj|solutionrelative:modelo\\entidades\\seguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3111B0AD-23DC-42E5-BA95-E7DAAD3F4C93}|Modelo\\Modelo.csproj|C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\modelo\\entidades\\especialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3111B0AD-23DC-42E5-BA95-E7DAAD3F4C93}|Modelo\\Modelo.csproj|solutionrelative:modelo\\entidades\\especialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3111B0AD-23DC-42E5-BA95-E7DAAD3F4C93}|Modelo\\Modelo.csproj|c:\\users\\lenovo\\desktop\\modulo-clinica\\gestion de clinica\\modelo\\entidades\\seguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3111B0AD-23DC-42E5-BA95-E7DAAD3F4C93}|Modelo\\Modelo.csproj|solutionrelative:modelo\\entidades\\seguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ABB72B7E-BECE-4329-941C-E59FECFDE600}|Vista\\Vista.csproj|c:\\users\\lenovo\\desktop\\modulo-clinica\\gestion de clinica\\vista\\formularios\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB72B7E-BECE-4329-941C-E59FECFDE600}|Vista\\Vista.csproj|solutionrelative:vista\\formularios\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB72B7E-BECE-4329-941C-E59FECFDE600}|Vista\\Vista.csproj|C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\vista\\formularios\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ABB72B7E-BECE-4329-941C-E59FECFDE600}|Vista\\Vista.csproj|solutionrelative:vista\\formularios\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3111B0AD-23DC-42E5-BA95-E7DAAD3F4C93}|Modelo\\Modelo.csproj|C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\modelo\\entidades\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3111B0AD-23DC-42E5-BA95-E7DAAD3F4C93}|Modelo\\Modelo.csproj|solutionrelative:modelo\\entidades\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB72B7E-BECE-4329-941C-E59FECFDE600}|Vista\\Vista.csproj|C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\vista\\formularios\\frminiciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB72B7E-BECE-4329-941C-E59FECFDE600}|Vista\\Vista.csproj|solutionrelative:vista\\formularios\\frminiciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB72B7E-BECE-4329-941C-E59FECFDE600}|Vista\\Vista.csproj|C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\vista\\formularios\\frminiciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ABB72B7E-BECE-4329-941C-E59FECFDE600}|Vista\\Vista.csproj|solutionrelative:vista\\formularios\\frminiciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3111B0AD-23DC-42E5-BA95-E7DAAD3F4C93}|Modelo\\Modelo.csproj|C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\modelo\\entidades\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,12 +47,12 @@
       "RelativeMoniker": "D:0:0:{3111B0AD-23DC-42E5-BA95-E7DAAD3F4C93}|Modelo\\Modelo.csproj|solutionrelative:modelo\\conexion\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3111B0AD-23DC-42E5-BA95-E7DAAD3F4C93}|Modelo\\Modelo.csproj|C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\modelo\\entidades\\diagnostico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3111B0AD-23DC-42E5-BA95-E7DAAD3F4C93}|Modelo\\Modelo.csproj|solutionrelative:modelo\\entidades\\diagnostico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ABB72B7E-BECE-4329-941C-E59FECFDE600}|Vista\\Vista.csproj|C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\vista\\formularios\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB72B7E-BECE-4329-941C-E59FECFDE600}|Vista\\Vista.csproj|solutionrelative:vista\\formularios\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABB72B7E-BECE-4329-941C-E59FECFDE600}|Vista\\Vista.csproj|C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\vista\\formularios\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{ABB72B7E-BECE-4329-941C-E59FECFDE600}|Vista\\Vista.csproj|solutionrelative:vista\\formularios\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3111B0AD-23DC-42E5-BA95-E7DAAD3F4C93}|Modelo\\Modelo.csproj|C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\modelo\\entidades\\diagnostico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3111B0AD-23DC-42E5-BA95-E7DAAD3F4C93}|Modelo\\Modelo.csproj|solutionrelative:modelo\\entidades\\diagnostico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ABB72B7E-BECE-4329-941C-E59FECFDE600}|Vista\\Vista.csproj|C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\vista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,11 +78,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Especialidad.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\Modelo\\Entidades\\Especialidad.cs",
               "RelativeDocumentMoniker": "Modelo\\Entidades\\Especialidad.cs",
@@ -80,24 +96,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Rol.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\Modelo\\Entidades\\Rol.cs",
-              "RelativeDocumentMoniker": "Modelo\\Entidades\\Rol.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\Modelo\\Entidades\\Rol.cs",
-              "RelativeToolTip": "Modelo\\Entidades\\Rol.cs",
-              "ViewState": "AgIAABYAAADgzMzMzMwowCwAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "frmPacientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\Vista\\Formularios\\frmPacientes.cs",
+              "RelativeDocumentMoniker": "Vista\\Formularios\\frmPacientes.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\Vista\\Formularios\\frmPacientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\Formularios\\frmPacientes.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T20:53:04.409Z"
+              "WhenOpened": "2025-09-24T21:00:59.811Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Seguridad.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\Modelo\\Entidades\\Seguridad.cs",
               "RelativeDocumentMoniker": "Modelo\\Entidades\\Seguridad.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\Modelo\\Entidades\\Seguridad.cs*",
-              "RelativeToolTip": "Modelo\\Entidades\\Seguridad.cs*",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\Modelo\\Entidades\\Seguridad.cs",
+              "RelativeToolTip": "Modelo\\Entidades\\Seguridad.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-23T17:08:52.302Z",
@@ -105,44 +121,116 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ConexionDB.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\Modelo\\Conexion\\ConexionDB.cs",
-              "RelativeDocumentMoniker": "Modelo\\Conexion\\ConexionDB.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\Modelo\\Conexion\\ConexionDB.cs",
-              "RelativeToolTip": "Modelo\\Conexion\\ConexionDB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "frmDashboard.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\Vista\\Formularios\\frmDashboard.cs",
+              "RelativeDocumentMoniker": "Vista\\Formularios\\frmDashboard.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\Vista\\Formularios\\frmDashboard.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\Formularios\\frmDashboard.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T20:41:32.371Z"
+              "WhenOpened": "2025-09-24T14:34:04.541Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "frmInicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\Vista\\Formularios\\frmInicio.cs",
+              "RelativeDocumentMoniker": "Vista\\Formularios\\frmInicio.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\Vista\\Formularios\\frmInicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\Formularios\\frmInicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T15:08:06.13Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmInicio.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\Vista\\Formularios\\frmInicio.cs",
+              "RelativeDocumentMoniker": "Vista\\Formularios\\frmInicio.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\Vista\\Formularios\\frmInicio.cs",
+              "RelativeToolTip": "Vista\\Formularios\\frmInicio.cs",
+              "ViewState": "AgIAABMAAABAzczMzEwjwBoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T15:56:33.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\Modelo\\Entidades\\Usuarios.cs",
+              "RelativeDocumentMoniker": "Modelo\\Entidades\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\Modelo\\Entidades\\Usuarios.cs",
+              "RelativeToolTip": "Modelo\\Entidades\\Usuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T20:54:03.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "frmInicioSesion.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\Vista\\Formularios\\frmInicioSesion.cs",
               "RelativeDocumentMoniker": "Vista\\Formularios\\frmInicioSesion.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\Vista\\Formularios\\frmInicioSesion.cs",
               "RelativeToolTip": "Vista\\Formularios\\frmInicioSesion.cs",
-              "ViewState": "AgIAABcAAAAAmpmZmbkzwCAAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAADAMzMzM/MwwEEAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T16:35:42.261Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T16:35:42.261Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "frmInicioSesion.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\Vista\\Formularios\\frmInicioSesion.cs",
               "RelativeDocumentMoniker": "Vista\\Formularios\\frmInicioSesion.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\Vista\\Formularios\\frmInicioSesion.cs [Dise\u00F1o]",
               "RelativeToolTip": "Vista\\Formularios\\frmInicioSesion.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T16:19:28.864Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-09-23T16:19:28.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\Modelo\\Entidades\\Rol.cs",
+              "RelativeDocumentMoniker": "Modelo\\Entidades\\Rol.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\Modelo\\Entidades\\Rol.cs",
+              "RelativeToolTip": "Modelo\\Entidades\\Rol.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADovxwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T20:53:04.409Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "ConexionDB.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\Modelo\\Conexion\\ConexionDB.cs",
+              "RelativeDocumentMoniker": "Modelo\\Conexion\\ConexionDB.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\Modelo\\Conexion\\ConexionDB.cs",
+              "RelativeToolTip": "Modelo\\Conexion\\ConexionDB.cs",
+              "ViewState": "AgIAAAAAAACAZmZmZqYowBEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T20:41:32.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\Vista\\Formularios\\frmDashboard.cs",
+              "RelativeDocumentMoniker": "Vista\\Formularios\\frmDashboard.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\Vista\\Formularios\\frmDashboard.cs",
+              "RelativeToolTip": "Vista\\Formularios\\frmDashboard.cs",
+              "ViewState": "AgIAABcAAADgZmZmZmYowCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T16:07:25.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Citas.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\Modelo\\Entidades\\Citas.cs",
               "RelativeDocumentMoniker": "Modelo\\Entidades\\Citas.cs",
@@ -154,20 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Usuarios.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\Modelo\\Entidades\\Usuarios.cs",
-              "RelativeDocumentMoniker": "Modelo\\Entidades\\Usuarios.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\Modelo\\Entidades\\Usuarios.cs",
-              "RelativeToolTip": "Modelo\\Entidades\\Usuarios.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T20:54:03.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Diagnostico.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\Modelo\\Entidades\\Diagnostico.cs",
               "RelativeDocumentMoniker": "Modelo\\Entidades\\Diagnostico.cs",
@@ -179,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "program.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\Vista\\program.cs",
               "RelativeDocumentMoniker": "Vista\\program.cs",
@@ -191,18 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "dashboard.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\Vista\\Formularios\\dashboard.cs",
-              "RelativeDocumentMoniker": "Vista\\Formularios\\dashboard.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\Vista\\Formularios\\dashboard.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Vista\\Formularios\\dashboard.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T16:52:14.738Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Medicos.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\Modelo\\Entidades\\Medicos.cs",
               "RelativeDocumentMoniker": "Modelo\\Entidades\\Medicos.cs",
@@ -214,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Paciente.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Modulo-Clinica\\Gestion de Clinica\\Modelo\\Entidades\\Paciente.cs",
               "RelativeDocumentMoniker": "Modelo\\Entidades\\Paciente.cs",

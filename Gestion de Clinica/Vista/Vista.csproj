@@ -54,6 +54,7 @@
       <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.4.5.3\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
     </Reference>
     <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -68,11 +69,23 @@
     <Compile Include="Formularios\frmDashboard.Designer.cs">
       <DependentUpon>frmDashboard.cs</DependentUpon>
     </Compile>
+    <Compile Include="Formularios\frmInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmInicio.Designer.cs">
+      <DependentUpon>frmInicio.cs</DependentUpon>
+    </Compile>
     <Compile Include="Formularios\frmInicioSesion.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Formularios\frmInicioSesion.Designer.cs">
       <DependentUpon>frmInicioSesion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmPacientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmPacientes.Designer.cs">
+      <DependentUpon>frmPacientes.cs</DependentUpon>
     </Compile>
     <Compile Include="program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -83,8 +96,17 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Formularios\frmDashboard.resx">
+      <DependentUpon>frmDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmInicio.resx">
+      <DependentUpon>frmInicio.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Formularios\frmInicioSesion.resx">
       <DependentUpon>frmInicioSesion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmPacientes.resx">
+      <DependentUpon>frmPacientes.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -100,6 +122,21 @@
       <Project>{3111b0ad-23dc-42e5-ba95-e7daad3f4c93}</Project>
       <Name>Modelo</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\medicine_icon-icons.com_66070.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\medical_medicine_doctor_hospital_icon_143393.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cough_sneeze_medical_illness_healthcare_sickness_pacient_icon_144682.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\appointments_icon_213552.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pneumonia_lung_breath_anatomy_organ_coronavirus_covid_covid_icon_133540.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -63,9 +63,59 @@ namespace Vista.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap appointments_icon_213552 {
+            get {
+                object obj = ResourceManager.GetObject("appointments_icon_213552", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap cough_sneeze_medical_illness_healthcare_sickness_pacient_icon_144682 {
+            get {
+                object obj = ResourceManager.GetObject("cough_sneeze_medical_illness_healthcare_sickness_pacient_icon_144682", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap hospital_building_healthcare_hospital_medical_clinic_icon_141518 {
             get {
                 object obj = ResourceManager.GetObject("hospital_building_healthcare_hospital_medical_clinic_icon_141518", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap medical_medicine_doctor_hospital_icon_143393 {
+            get {
+                object obj = ResourceManager.GetObject("medical_medicine_doctor_hospital_icon_143393", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap medicine_icon_icons_com_66070 {
+            get {
+                object obj = ResourceManager.GetObject("medicine_icon-icons.com_66070", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pneumonia_lung_breath_anatomy_organ_coronavirus_covid_covid_icon_133540 {
+            get {
+                object obj = ResourceManager.GetObject("pneumonia_lung_breath_anatomy_organ_coronavirus_covid_covid_icon_133540", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

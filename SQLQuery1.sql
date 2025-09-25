@@ -137,3 +137,14 @@ INSERT INTO Citas (idDiagnostico, idPaciente, fechaCita) VALUES
 (8, 8, '2025-09-17'),
 (9, 9, '2025-09-18'),
 (10, 10, '2025-09-19');
+
+
+
+create Proc MedicosPorEspecialidad
+as
+select E.idEspecialidad, count (idMedico) as cant
+from Medicos as M
+inner join Especialidad as E on E.idEspecialidad=M.idEspecialidad
+group by nombreEspecialidad, E.idEspecialidad
+order by count (2)
+select *from Medicos

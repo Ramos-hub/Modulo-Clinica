@@ -16,5 +16,25 @@ namespace Vista.Formularios
         {
             InitializeComponent();
         }
+        private Form activarForm = null;
+        private void abrirForm(Form formularioPintar)
+        {
+            if (activarForm != null)
+            {
+                activarForm.Close();
+            }
+            activarForm = formularioPintar;
+            formularioPintar.TopLevel = false;
+            formularioPintar.FormBorderStyle = FormBorderStyle.None;
+            formularioPintar.Dock = DockStyle.Fill;
+            pnlCentral.Controls.Add(formularioPintar);
+            formularioPintar.BringToFront();
+            formularioPintar.Show();
+        }
+
+        private void btnInicio_Click(object sender, EventArgs e)
+        {
+            abrirForm(new frmInicio());
+        }
     }
 }
